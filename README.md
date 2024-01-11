@@ -1,4 +1,6 @@
-# React + Vite
+# React + Vite - Gifs
+
+Proyecto de Giphify para extraer gifs  
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
